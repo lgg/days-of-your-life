@@ -1,4 +1,4 @@
-Days of your life
+Days of life
 ===
 
 ## About:
@@ -16,6 +16,11 @@ Days of your life
 ## ToDo:
 * Todos in code
 * optimize loading
+* fix on small screens
+* change index.html inputs to numbers
+* fix on mobiles
+* test on tablets
+* add favicon
 
 ## Copyrights
 * License: MIT
