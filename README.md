@@ -17,7 +17,6 @@ Days of life
 * Todos in code
 * optimize loading
 * fix on small screens
-* change index.html inputs to numbers
 * fix on mobiles
 * test on tablets
 * add favicon
