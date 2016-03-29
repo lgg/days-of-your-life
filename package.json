@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/littleguga/days-of-your-life/issues"
   },
-  "homepage": "https://github.com/littleguga/days-of-your-life",
+  "homepage": "https://littleguga.github.io/days-of-your-life/",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
