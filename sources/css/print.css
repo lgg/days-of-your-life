@@ -1,0 +1,18 @@
+@media print{
+    .title{
+        font-size: 100% !important;
+    }
+
+    .current{
+        background: #ccc !important;;
+        box-shadow: none !important;;
+    }
+
+    .year:nth-of-type(11n){
+        page-break-after: always;
+    }
+
+    .no-print{
+        display: none !important;
+    }
+}

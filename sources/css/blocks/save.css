@@ -1,0 +1,25 @@
+.save{
+    position: fixed;
+    z-index: 999;
+    bottom: 30px;
+    right: 30px;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    color: black;
+    font-size: 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.save:hover{
+    background: #d6d6d6;
+}
+
+.save:active{
+    bottom: 29px;
+}

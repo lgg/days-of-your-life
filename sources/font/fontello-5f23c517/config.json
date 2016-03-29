@@ -1,0 +1,46 @@
+{
+  "name": "icons",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4b20e1deee87faf4c3fab735fbd4bc1a",
+      "css": "idea",
+      "code": 59393,
+      "src": "entypo"
+    },
+    {
+      "uid": "5d2d07f112b8de19f2c0dbfec3e42c05",
+      "css": "loader1",
+      "code": 59394,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9bc2902722abb366a213a052ade360bc",
+      "css": "loader2",
+      "code": 59395,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
+      "css": "download",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "191bcf63575a78def53c907c3d3bf7f0",
+      "css": "save",
+      "code": 59397,
+      "src": "entypo"
+    }
+  ]
+}
