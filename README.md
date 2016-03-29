@@ -18,6 +18,8 @@ Days of your life
 * optimize loading
 * fix on small screens
 * change index.html inputs to numbers
+* fix on mobiles
+* test on tablets
 
 ## Copyrights
 * License: MIT
