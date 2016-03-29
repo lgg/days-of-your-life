@@ -5,7 +5,7 @@ Days of your life
 
 * It's a simple visualization for days of your life
 * [Demo could me found here]()
-!(./screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/littleguga/days-of-your-life/gh-pages/screenshot.png)
 
 ## Usage:
 * You can always use [demo page]()
