@@ -16,6 +16,8 @@ Days of your life
 ## ToDo:
 * Todos in code
 * optimize loading
+* fix on small screens
+* change index.html inputs to numbers
 
 ## Copyrights
 * License: MIT
