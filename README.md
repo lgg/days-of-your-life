@@ -20,6 +20,7 @@ Days of your life
 * change index.html inputs to numbers
 * fix on mobiles
 * test on tablets
+* add favicon
 
 ## Copyrights
 * License: MIT
