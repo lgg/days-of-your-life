@@ -19,6 +19,10 @@
     text-align: right;
 }
 
+.input-numbers{
+    width: 180px;
+}
+
 .go{
     margin-top: 10px;
     padding: 5px 10px;
