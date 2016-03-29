@@ -1,4 +1,4 @@
-Days of your life
+Days of life
 ===
 
 ## About:
