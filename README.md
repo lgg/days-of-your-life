@@ -4,7 +4,7 @@ Days of life
 ## About:
 
 * It's a simple visualization for days of your life
-* [Demo could me found here](https://littleguga.github.io/days-of-your-life/)
+* [Demo could be found here](https://littleguga.github.io/days-of-your-life/)
 ![Screenshot](https://raw.githubusercontent.com/littleguga/days-of-your-life/gh-pages/screenshot.png)
 
 ## Usage:
