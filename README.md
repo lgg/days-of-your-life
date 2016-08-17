@@ -23,7 +23,7 @@ Days of life
 
 ## Copyrights
 * License: MIT
-* Author: [littleguga](https://github.com/littleguga/)
+* Author: [littleguga](https://github.com/lgg/)
 * Thanks to [rndme](https://github.com/rndme/) for his [downloadjs library](https://github.com/rndme/download)
 * Original idea: [dexif](https://github.com/dexif/YourLife)
 * Inspired by: [36 by Vadim Makishvili](https://www.youtube.com/watch?v=xPPCzryZK44)
