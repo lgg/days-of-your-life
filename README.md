@@ -4,11 +4,11 @@ Days of life
 ## About:
 
 * It's a simple visualization for days of your life
-* [Demo could be found here](https://littleguga.github.io/days-of-your-life/)
-![Screenshot](https://raw.githubusercontent.com/littleguga/days-of-your-life/gh-pages/screenshot.png)
+* [Demo could be found here](https://lgg.github.io/days-of-your-life/)
+![Screenshot](https://raw.githubusercontent.com/lgg/days-of-your-life/gh-pages/screenshot.png)
 
 ## Usage:
-* You can always use [demo page](https://littleguga.github.io/days-of-your-life/)
+* You can always use [demo page](https://lgg.github.io/days-of-your-life/)
 * Or you can copy this repository and set you birth date in main.js/user_date object(change year, month, day), then you will need to rebuild the project(`npm install && gulp build`)
 * Also you can download generated .html file and host it anywhere you like
 * Off course you can print pages and mark lived days by yourself
